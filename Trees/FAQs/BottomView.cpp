@@ -40,7 +40,7 @@ using namespace std;
  *    - Update the value corresponding to its horizontal distance.
  *    - Enqueue its left and right children with updated distances.
  * 4. Traverse the ordered map from leftmost to rightmost horizontal
- *    distance and collect the stored values.
+ *    distance and collect the stored values..
  *
  * Note:
  * - When multiple nodes share the same horizontal distance, the node
