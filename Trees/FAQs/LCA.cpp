@@ -9,7 +9,7 @@ using namespace std;
  * of itself).
  *
  * Unlike a Binary Search Tree, this algorithm works for a general binary tree
- * by recursively searching both the left and right subtrees.
+ * by recursively searching both the left and right subtrees..
  *
  * Example:
  *               3
